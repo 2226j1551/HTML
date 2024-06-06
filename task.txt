@@ -1,0 +1,113 @@
+<html>
+<head>
+    <title>
+        Cafe Coffee World
+    </title>
+</head>
+<body>
+    <h1>Cafe Coffee World</h1>
+    <ul>
+        <li><a href="">Home</a></li>
+        <li><a href="">About</a></li>
+        <li><a href="">Contacts</a></li>
+    </li>
+    </ul>
+    <hr>
+    <img src="C:\Users\casexam\Downloads/coffee.jpg"><br><br>
+    <h2>Coffee Cup</h2>
+    <p>At every morning coffee will give energy to us.</p>
+    <p>Without drinking coffee the day should not be completed.A tasty coffee will make the day lovely</p>
+    <ul>
+    <li>What is special about CCW</li>
+    </ul>
+    <h3>Our Menu</h3>
+    <h4>Our coffee list</h4>
+    <table border="3">
+        <tr>
+            <th>Coffee</th>
+            <th>Qty</th>
+            <th>Price</th>
+        </tr>
+        <tr>
+            <td rowspan="3">Cappacino</td>
+            <td>1</td>
+            <td>653478</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>646842</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>678456</td>
+        </tr>
+        <tr>
+            <td rowspan="3">Latte</td>
+            <td>2</td>
+            <td>765796</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>648465</td>
+        </tr>
+        <tr>
+            <td>3</td>
+            <td>462342</td>
+        </tr>
+        <tr>
+            <td rowspan="1">Biscuits $50</td>
+         </tr>
+    </table>
+    <h5>Feed back form</h5>
+    <form>
+        <label>Email</label>
+        <input type="email" placeholder="Enter your mail id"><br><br>
+        <label>Comments</label>
+        <input type="comments" placeholder="Enter ypur comments here"><br><br>
+        <input type="button" value="SUBMIT">
+        </form>
+        <h6>COPYRIGHTS@COFFEE WORLD</h6>
+        <table border="5">
+            <tr>
+                <th>S.NO</th>
+                <th>IMAGE</th>
+                <th>FIRST NAME</th>
+                <th>LAST NAME</th>
+                <th>AGE</th>
+                <th>HOBBIES</th>
+            </tr>
+            <tr>
+                <td>1</td>
+                <td><img src="C:\Users\casexam\Downloads/student.jpg"></td>
+                <td>Meena</td>
+                <td>kumar</td>
+                <td>19</td>
+                <td>Reading Books</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td><img src="C:\Users\casexam\Downloads/student2.jpg"></td>
+                <td>teena</td>
+                <td>kumar</td>
+                <td>20</td>
+                <td>Singing</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td><img src="C:\Users\casexam\Downloads/student3.jpg"></td>
+                <td>Megna</td>
+                <td>kumar</td>
+                <td>21</td>
+                <td>Dancing</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td><img src="C:\Users\casexam\Downloads/student4.jpg"></td>
+                <td>Reena</td>
+                <td>kumar</td>
+                <td>22</td>
+                <td>Playing</td>
+            </tr>
+         </table>
+</body>
+</html>
